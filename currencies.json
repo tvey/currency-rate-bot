@@ -1,0 +1,500 @@
+{
+    "R01010": {
+        "code": "AUD",
+        "is_current": true,
+        "name": "австралийский доллар",
+        "name_plural": "",
+        "name_singular": "австралийский доллар",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01015": {
+        "code": "ATS",
+        "is_current": false,
+        "name_plural": "австрийских шиллингов",
+        "name_singular": "австрийский шиллинг",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01020": {
+        "code": "AZM",
+        "is_current": false,
+        "name_plural": "",
+        "name_singular": "азербайджанский манат",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01020A": {
+        "code": "AZN",
+        "is_current": true,
+        "name": "азербайджанский манат",
+        "name_plural": "",
+        "name_singular": "азербайджанский манат",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01035": {
+        "code": "GBP",
+        "is_current": true,
+        "name": "фунт стерлингов",
+        "name_plural": "",
+        "name_singular": "фунт стерлингов",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01060": {
+        "code": "AMD",
+        "is_current": true,
+        "name": "армянских драмов",
+        "name_plural": "армянских драмов",
+        "name_singular": "армянский драм",
+        "nominal": 100,
+        "redenominated": true
+    },
+    "R01090": {
+        "code": "BYR",
+        "is_current": false,
+        "name_plural": "белорусских рублей",
+        "name_singular": "",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01090A": {
+        "code": "BYB",
+        "is_current": false,
+        "name_plural": "белoрусских рублей",
+        "name_singular": "",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01090B": {
+        "code": "BYN",
+        "is_current": true,
+        "name": "белорусский рубль",
+        "name_plural": "",
+        "name_singular": "белорусский рубль",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01095": {
+        "code": "BEF",
+        "is_current": false,
+        "name_plural": "бельгийских франков",
+        "name_singular": "",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01100": {
+        "code": "BGN",
+        "is_current": true,
+        "name": "болгарский лев",
+        "name_plural": "болгарских левов",
+        "name_singular": "болгарский лев",
+        "nominal": 1,
+        "redenominated": true
+    },
+    "R01115": {
+        "code": "BRL",
+        "is_current": true,
+        "name": "бразильский реал",
+        "name_plural": "",
+        "name_singular": "бразильский реал",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01135": {
+        "code": "HUF",
+        "is_current": true,
+        "name": "венгерских форинтов",
+        "name_plural": "венгерских форинтов",
+        "name_singular": "венгерский форинт",
+        "nominal": 100,
+        "redenominated": true
+    },
+    "R01200": {
+        "code": "HKD",
+        "is_current": true,
+        "name": "гонконгских долларов",
+        "name_plural": "гонконгских долларов",
+        "name_singular": "гонконгский доллар",
+        "nominal": 10,
+        "redenominated": true
+    },
+    "R01205": {
+        "code": "GRD",
+        "is_current": false,
+        "name_plural": "греческих драхм",
+        "name_singular": "",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01210": {
+        "code": "GEL",
+        "is_current": false,
+        "name_plural": "",
+        "name_singular": "грузинский лари",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01215": {
+        "code": "DKK",
+        "is_current": true,
+        "name": "датская крона",
+        "name_plural": "датских крон",
+        "name_singular": "датская крона",
+        "nominal": 1,
+        "redenominated": true
+    },
+    "R01235": {
+        "code": "USD",
+        "is_current": true,
+        "name": "доллар США",
+        "name_plural": "",
+        "name_singular": "доллар США",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01239": {
+        "code": "EUR",
+        "is_current": true,
+        "name": "евро",
+        "name_plural": "",
+        "name_singular": "евро",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01270": {
+        "code": "INR",
+        "is_current": true,
+        "name": "индийских рупий",
+        "name_plural": "индийских рупий",
+        "name_singular": "индийская рупия",
+        "nominal": 100,
+        "redenominated": true
+    },
+    "R01305": {
+        "code": "IEP",
+        "is_current": false,
+        "name_plural": "",
+        "name_singular": "ирландский фунт",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01310": {
+        "code": "ISK",
+        "is_current": false,
+        "name_plural": "исландских крон",
+        "name_singular": "исландская крона",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01315": {
+        "code": "ESP",
+        "is_current": false,
+        "name_plural": "испанских песет",
+        "name_singular": "",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01325": {
+        "code": "ITL",
+        "is_current": false,
+        "name_plural": "итальянских лир",
+        "name_singular": "",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01335": {
+        "code": "KZT",
+        "is_current": true,
+        "name": "казахстанских тенге",
+        "name_plural": "казахстанских тенге",
+        "name_singular": "казахстанский тенге",
+        "nominal": 100,
+        "redenominated": true
+    },
+    "R01350": {
+        "code": "CAD",
+        "is_current": true,
+        "name": "канадский доллар",
+        "name_plural": "",
+        "name_singular": "канадский доллар",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01370": {
+        "code": "KGS",
+        "is_current": true,
+        "name": "киргизских сомов",
+        "name_plural": "киргизских сомов",
+        "name_singular": "киргизский сом",
+        "nominal": 100,
+        "redenominated": true
+    },
+    "R01375": {
+        "code": "CNY",
+        "is_current": true,
+        "name": "китайских юаней",
+        "name_plural": "китайских юаней",
+        "name_singular": "китайский юань",
+        "nominal": 10,
+        "redenominated": true
+    },
+    "R01405": {
+        "code": "LVL",
+        "is_current": false,
+        "name_plural": "",
+        "name_singular": "латвийский лат",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01406": {
+        "code": "LVR",
+        "is_current": false,
+        "name_plural": "",
+        "name_singular": "латвийский рублис",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01435": {
+        "code": "LTL",
+        "is_current": false,
+        "name_plural": "",
+        "name_singular": "литовский лит",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01436": {
+        "code": "LTT",
+        "is_current": false,
+        "name_plural": "",
+        "name_singular": "литовский талон",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01500": {
+        "code": "MDL",
+        "is_current": true,
+        "name": "молдавских леев",
+        "name_plural": "молдавских леев",
+        "name_singular": "молдавский лей",
+        "nominal": 10,
+        "redenominated": true
+    },
+    "R01510": {
+        "code": "DEM",
+        "is_current": false,
+        "name_plural": "",
+        "name_singular": "немецкая марка",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01523": {
+        "code": "NLG",
+        "is_current": false,
+        "name_plural": "",
+        "name_singular": "нидерландский гульден",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01535": {
+        "code": "NOK",
+        "is_current": true,
+        "name": "норвежских крон",
+        "name_plural": "норвежских крон",
+        "name_singular": "норвежская крона",
+        "nominal": 10,
+        "redenominated": true
+    },
+    "R01565": {
+        "code": "PLN",
+        "is_current": true,
+        "name": "польский злотый",
+        "name_plural": "польских злотых",
+        "name_singular": "польский злотый",
+        "nominal": 1,
+        "redenominated": true
+    },
+    "R01570": {
+        "code": "PTE",
+        "is_current": false,
+        "name_plural": "португальских эскудо",
+        "name_singular": "",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01585F": {
+        "code": "RON",
+        "is_current": true,
+        "name": "румынский лей",
+        "name_plural": "румынских леев",
+        "name_singular": "румынский лей",
+        "nominal": 1,
+        "redenominated": true
+    },
+    "R01589": {
+        "code": "XDR",
+        "is_current": true,
+        "name": "СДР",
+        "name_plural": "СДР",
+        "name_singular": "СДР",
+        "nominal": 1,
+        "redenominated": true
+    },
+    "R01625": {
+        "code": "SGD",
+        "is_current": true,
+        "name": "сингапурский доллар",
+        "name_plural": "",
+        "name_singular": "сингапурский доллар",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01670": {
+        "code": "TJS",
+        "is_current": true,
+        "name": "таджикских сомони",
+        "name_plural": "таджикских сомони",
+        "name_singular": "таджикский сомони",
+        "nominal": 10,
+        "redenominated": true
+    },
+    "R01700": {
+        "code": "TRL",
+        "is_current": false,
+        "name_plural": "турецких лир",
+        "name_singular": "",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01700J": {
+        "code": "TRY",
+        "is_current": true,
+        "name": "турецких лир",
+        "name_plural": "турецких лир",
+        "name_singular": "турецкая лира",
+        "nominal": 10,
+        "redenominated": true
+    },
+    "R01710A": {
+        "code": "TMT",
+        "is_current": true,
+        "name": "новый туркменский манат",
+        "name_plural": "новых туркменских манатов",
+        "name_singular": "новый туркменский манат",
+        "nominal": 1,
+        "redenominated": true
+    },
+    "R01717": {
+        "code": "UZS",
+        "is_current": true,
+        "name": "узбекских сумов",
+        "name_plural": "узбекских сумов",
+        "name_singular": "узбекский сум",
+        "nominal": 10000,
+        "redenominated": true
+    },
+    "R01720": {
+        "code": "UAH",
+        "is_current": true,
+        "name": "украинских гривен",
+        "name_plural": "украинских гривен",
+        "name_singular": "украинская гривна",
+        "nominal": 10,
+        "redenominated": true
+    },
+    "R01720A": {
+        "code": "UAK",
+        "is_current": false,
+        "name_plural": "украинских карбованецев",
+        "name_singular": "",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01740": {
+        "code": "FIM",
+        "is_current": false,
+        "name_plural": "финляндских марок",
+        "name_singular": "финляндская марка",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01750": {
+        "code": "FRF",
+        "is_current": false,
+        "name_plural": "французских франков",
+        "name_singular": "французский франк",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01760": {
+        "code": "CZK",
+        "is_current": true,
+        "name": "чешских крон",
+        "name_plural": "чешских крон",
+        "name_singular": "чешская крона",
+        "nominal": 10,
+        "redenominated": true
+    },
+    "R01770": {
+        "code": "SEK",
+        "is_current": true,
+        "name": "шведских крон",
+        "name_plural": "шведских крон",
+        "name_singular": "шведская крона",
+        "nominal": 10,
+        "redenominated": true
+    },
+    "R01775": {
+        "code": "CHF",
+        "is_current": true,
+        "name": "швейцарский франк",
+        "name_plural": "",
+        "name_singular": "швейцарский франк",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01790": {
+        "code": "XEU",
+        "is_current": false,
+        "name_plural": "",
+        "name_singular": "ЭКЮ",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01795": {
+        "code": "EEK",
+        "is_current": false,
+        "name_plural": "эстонских крон",
+        "name_singular": "эстонская крона",
+        "nominal": 0,
+        "redenominated": true
+    },
+    "R01810": {
+        "code": "ZAR",
+        "is_current": true,
+        "name": "южноафриканских рэндов",
+        "name_plural": "южноафриканских рэндов",
+        "name_singular": "",
+        "nominal": 10,
+        "redenominated": false
+    },
+    "R01815": {
+        "code": "KRW",
+        "is_current": true,
+        "name": "вон Республики Корея",
+        "name_plural": "вон Республики Корея",
+        "name_singular": "",
+        "nominal": 1000,
+        "redenominated": false
+    },
+    "R01820": {
+        "code": "JPY",
+        "is_current": true,
+        "name": "японских иен",
+        "name_plural": "японских иен",
+        "name_singular": "",
+        "nominal": 100,
+        "redenominated": true
+    }
+}
