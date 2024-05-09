@@ -111,6 +111,15 @@
         "nominal": 100,
         "redenominated": true
     },
+    "R01150": {
+        "code": "VND",
+        "is_current": true,
+        "name": "вьетнамских донгов",
+        "name_plural": "вьетнамских донгов",
+        "name_singular": "вьетнамский донг",
+        "nominal": 10000,
+        "redenominated": false
+    },
     "R01200": {
         "code": "HKD",
         "is_current": true,
@@ -145,6 +154,15 @@
         "nominal": 1,
         "redenominated": true
     },
+    "R01230": {
+        "code": "AED",
+        "is_current": true,
+        "name": "дирхам ОАЭ",
+        "name_plural": "дирхамов ОАЭ",
+        "name_singular": "дирхам ОАЭ",
+        "nominal": 1,
+        "redenominated": false
+    },
     "R01235": {
         "code": "USD",
         "is_current": true,
@@ -163,6 +181,15 @@
         "nominal": 1,
         "redenominated": false
     },
+    "R01240": {
+        "code": "EGP",
+        "is_current": true,
+        "name": "египетских фунтов",
+        "name_plural": "египетских фунтов",
+        "name_singular": "египетский фунт",
+        "nominal": 10,
+        "redenominated": false
+    },
     "R01270": {
         "code": "INR",
         "is_current": true,
@@ -171,6 +198,15 @@
         "name_singular": "индийская рупия",
         "nominal": 100,
         "redenominated": true
+    },
+    "R01280": {
+        "code": "IDR",
+        "is_current": true,
+        "name": "индонезийских рупий",
+        "name_plural": "индонезийских рупий",
+        "name_singular": "индонезийская рупия",
+        "nominal": 10000,
+        "redenominated": false
     },
     "R01305": {
         "code": "IEP",
@@ -219,6 +255,15 @@
         "name": "канадский доллар",
         "name_plural": "",
         "name_singular": "канадский доллар",
+        "nominal": 1,
+        "redenominated": false
+    },
+    "R01355": {
+        "code": "QAR",
+        "is_current": true,
+        "name": "катарский риал",
+        "name_plural": "катарских риалов",
+        "name_singular": "катарский риал",
         "nominal": 1,
         "redenominated": false
     },
@@ -297,6 +342,15 @@
         "nominal": 1,
         "redenominated": false
     },
+    "R01530": {
+        "code": "NZD",
+        "is_current": true,
+        "name": "новозеландский доллар",
+        "name_plural": "новозеландских долларов",
+        "name_singular": "новозеландский доллар",
+        "nominal": 1,
+        "redenominated": false
+    },
     "R01535": {
         "code": "NOK",
         "is_current": true,
@@ -358,6 +412,15 @@
         "name_singular": "таджикский сомони",
         "nominal": 10,
         "redenominated": true
+    },
+    "R01675": {
+        "code": "THB",
+        "is_current": true,
+        "name": "таиландских батов",
+        "name_plural": "таиландских батов",
+        "name_singular": "таиландский бат",
+        "nominal": 10,
+        "redenominated": false
     },
     "R01700": {
         "code": "TRL",
@@ -469,6 +532,15 @@
         "name_singular": "эстонская крона",
         "nominal": 0,
         "redenominated": true
+    },
+    "R01805F": {
+        "code": "RSD",
+        "is_current": true,
+        "name": "сербских динаров",
+        "name_plural": "сербских динаров",
+        "name_singular": "сербский динар",
+        "nominal": 100,
+        "redenominated": false
     },
     "R01810": {
         "code": "ZAR",
